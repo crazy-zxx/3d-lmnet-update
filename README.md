@@ -53,10 +53,11 @@ The folder structure should now look like this:<br>
 ## Usage
 Install [TensorFlow](https://www.tensorflow.org/install/). 
 We recommend version 1.3 so that the additional TensorFlow ops can be compiled.
-<br>
+<br><br>
 **The code provided has been tested with Python 2.7, TensorFlow 1.3, and CUDA 8.0. <br>
-You need install these package by pip: opencv-python==4.2.0.32,tflearn==0.3.2,tqdm==4.62.3**
-<br>
+You need install these package by pip: <br>
+`opencv-python==4.2.0.32,tflearn==0.3.2,tqdm==4.62.3`**
+<br><br>
 The following steps need to be performed to run the codes given in this repository:
 
 1. Clone the repository:
