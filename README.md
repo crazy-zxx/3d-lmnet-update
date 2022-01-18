@@ -66,7 +66,7 @@ The following steps need to be performed to run the codes given in this reposito
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/val-iisc/3d-lmnet.git
+git clone https://github.com/crazy-zxx/3d-lmnet-update.git
 cd 3d-lmnet
 ```
 2. Tensorflow ops for losses (Chamfer and EMD) as well as for point cloud visualization need to be compiled. Run the makefile as given below. (Note that the the nvcc, cudalib, and tensorflow paths inside the makefile need to be updated to point to the locations on your machine):
