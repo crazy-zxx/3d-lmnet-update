@@ -1,5 +1,5 @@
 # 3D-LMNet
-This repository contains the source codes for the paper [3D-LMNet: Latent Embedding Matching For Accurate and Diverse 3D Point Cloud Reconstruction From a Single Image](https://arxiv.org/abs/1807.07796). </br>
+This repository contains the **_update_** source codes for the paper [3D-LMNet: Latent Embedding Matching For Accurate and Diverse 3D Point Cloud Reconstruction From a Single Image](https://arxiv.org/abs/1807.07796). </br>
 Accepted at *British Machine Vision Conference (BMVC 2018)*
 
 ## Citing this work
