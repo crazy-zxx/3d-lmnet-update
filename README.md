@@ -78,6 +78,9 @@ make
 - To train the point-cloud auto-encoder, run:
 ```shell
 bash scripts/train_ae.sh
+
+或者，执行 run 目录下的对应名称的py文件：train_ae.py
+下同
 ```
 Note that the auto-encoder needs to be trained before training either of the latent matching setups.
 
